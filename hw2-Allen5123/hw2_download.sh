@@ -1,0 +1,10 @@
+#hw2_1
+gdown 1e-WGzRpcUvJAdPuwIM-OMXFqD9RC_i7L
+#hw2_2
+gdown 1jYOPrklYVO4QFMEdyfckJU_PxMtf8PLI
+#hw2_3 svhn_F/svhn_C
+gdown 1j2h3EdqRIHh3VQmi0dLo1podMsozxySD
+gdown 1rMzQQcpaZFfEr1Rv_FuvbGKJyR75tB8N 
+#hw2_3 usps_F/usps_C
+gdown 1GiOnIf4zRFioYy_gO-_Q1vtMBCpQDH68
+gdown 1nGtpTuGVm7NSya9dhLjBnCkWAiybGHeN
